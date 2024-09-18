@@ -1,4 +1,4 @@
-# The-Theory-of-Game-Gesign-lib-for-DUT
+# The-Theory-of-Game-Design-lib-for-DUT
 # 游戏设计理论基础课程
 ### 大连理工大学软件学院（大连理工大学-立命馆大学国际信息与软件学院）创新创业中心-设计组
 ### 赵航
